@@ -1,6 +1,4 @@
 # AdvancedDataScience
-Codes for the assignments of Advanced Data Science. 
-
-I write all the codes except the test codes.
+My solutions to the assignments for Advanced Data Science. 
 
 The original assignments can be found at: https://github.com/lcdm-uiuc/info490-sp17
