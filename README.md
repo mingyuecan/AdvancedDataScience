@@ -1,2 +1,3 @@
 # AdvancedDataScience
-This respository contains codes for the assignments of Advanced Data Science.
+Codes for the assignments of Advanced Data Science. 
+I write all the codes except the test codes.
